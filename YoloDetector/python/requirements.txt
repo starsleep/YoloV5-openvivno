@@ -1,0 +1,8 @@
+openvino>=2025.4,<2026
+numpy>=1.26
+opencv-python>=4.9
+torch>=2.2
+torchvision>=0.17
+onnx>=1.16
+nncf>=2.14
+requests>=2.31

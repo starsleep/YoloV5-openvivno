@@ -427,3 +427,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+YoloDetector/models/**
+YoloDetector/test_images/**
+YoloDetector/validation_data/**
+YoloDetector/downloads/**
